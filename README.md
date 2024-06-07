@@ -1,1 +1,1 @@
-# IceCream_SalesPred
+# IceCream_Sales Prediction using Simple Linear Regression
